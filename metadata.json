@@ -1,0 +1,9 @@
+{
+  "name": "NexaNeuron",
+  "description": "A comprehensive web application showcasing a wide range of Gemini API features, including text and image analysis, video and audio generation, live conversations, and grounded search.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
